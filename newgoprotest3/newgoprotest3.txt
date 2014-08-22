@@ -1,0 +1,23 @@
+http://software.gopro.com/FirmwareBeta/HD2/HD2-firmware.bin.zip
+http://software.gopro.com/FirmwareBeta/HD2P2/HD2-firmware.bin.zip
+http://software.gopro.com/FirmwareBeta/HD3/Black/HERO3_Black_2_00.zip
+http://software.gopro.com/FirmwareBeta/HD3/Silver/HERO3_Silver_0_95.zip
+http://software.gopro.com/FirmwareBeta/HD3/White/HERO3_White_0_71.zip
+http://software.gopro.com/FirmwareBeta/HD3B/HD3.03.01.45.zip
+http://software.gopro.com/FirmwareBeta/HD3B/HD3.03.02.00.zip
+http://software.gopro.com/FirmwareBeta/HD3B/HD3.03.02.31-27kMed.zip
+http://software.gopro.com/FirmwareBeta/HD3B/HD3.03.02.31-27kWide.zip
+http://software.gopro.com/FirmwareBeta/HD3B/HD3.03.02.48Medium.zip
+http://software.gopro.com/FirmwareBeta/HD3B/HD3.03.02.48Wide.zip
+http://software.gopro.com/FirmwareBeta/HD3B/HD3.03.03.00Medium.zip
+http://software.gopro.com/FirmwareBeta/HD3B/hd3.03.01.09.zip
+http://software.gopro.com/FirmwareBeta/HD3PB/HD3.10.00.30_WF4.0.26.0.zip
+http://software.gopro.com/FirmwareBeta/HD3PB/HD3.10.01.00.zip
+http://software.gopro.com/FirmwareBeta/HD3PB/HD3.11.00.21- WF4.0.14.0.zip
+http://software.gopro.com/FirmwareBeta/HD3PB/HD3.11.00.32-WF4.0.19.0.zip
+http://software.gopro.com/FirmwareBeta/HD3PB/HD3.11.01.00-WF4.0.26.0.zip
+http://software.gopro.com/FirmwareBeta/HD3S/HD3.02-firmware.zip
+http://software.gopro.com/FirmwareBeta/firmware.zip
+http://software.gopro.com/FirmwareBeta/firmwareandsettings.zip
+http://software.gopro.com/FirmwareBeta/firmwareandsettings_2.zip
+http://software.gopro.com/FirmwareBeta_$folder
